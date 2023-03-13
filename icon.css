@@ -1,0 +1,16 @@
+:root {
+    --white: #FFFFFF;
+    --lightGreen: #C8EDEE;
+    --lightBlue: #3E91D5;
+    --darkBlue: #03254C;
+}
+
+.html, body{
+    min-height: 100vh;
+    background-color: var(--white);
+}
+
+.main{
+    width: 100%;
+    min-height: 100vh;
+}
