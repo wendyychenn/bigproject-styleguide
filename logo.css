@@ -164,3 +164,15 @@ h1 {
     font-size: 3.5em;
     padding-right: 12%;
 }
+
+.footer {
+    background-color: #03254c;
+    height: 300px;
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    display: flex;
+    font-size: 2em;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
